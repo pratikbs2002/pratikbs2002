@@ -28,9 +28,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-># 🏆GitHub Trophies:
-<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=pratikbs2002&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
 <br/><br/>
